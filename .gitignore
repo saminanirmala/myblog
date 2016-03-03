@@ -1,0 +1,5 @@
+.idea
+/vendor
+.env
+/uploads
+/config/routesconfig.php
